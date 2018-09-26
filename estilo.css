@@ -23,6 +23,7 @@ ul{
 
 li {
     float: left;
+    border-right: 1px solid #bbb;
 }
 
 li a {
@@ -33,10 +34,12 @@ li a {
     text-decoration: none;
 }
 
-
-
 li a:hover {
     background-color: green;
+}
+
+#otroLado{
+    float: right;
 }
 
 
